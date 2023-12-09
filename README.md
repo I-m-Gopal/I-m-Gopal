@@ -1,12 +1,7 @@
-<div align="center">
-  <img height="147" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*b21FyqUbowHYAOQDXH0tDw.jpeg"  />
+<div >
+  <img height="250px" width="100%"   src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*b21FyqUbowHYAOQDXH0tDw.jpeg"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=I-m-Gopal .I-m-Gopal &"  />
-</div>
 
 ###
 
@@ -25,19 +20,19 @@
 
 ###
 
-<img align="left" height="200" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"  />
+<img align="right" height="200" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"  />
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<p align="left">I'm Gopal Mondal <br><br>- 🔭 I’m working on frontend development<br>- 📚 I'm currently learning  about advance frontend tools<br>- ⚡ Passionate about AI/ML and Devops</p>
+<p align="left"><b>I'm Gopal Mondal<b> <br><br>- 🔭 I’m working on frontend development<br>- 📚 I'm currently learning  about advance frontend tools<br>- ⚡ Passionate about AI/ML and Devops<br></p>
 
 ###
-
-<h3 align="left">🛠 Language and tools</h3>
+<br>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -58,8 +53,8 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
+<br>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
